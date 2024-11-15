@@ -1,0 +1,6 @@
+langchain-community
+asknews-sdk
+openai
+google-cloud-texttospeech
+pytest
+anyio  
